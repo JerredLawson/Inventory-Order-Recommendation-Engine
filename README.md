@@ -6,10 +6,10 @@ Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classi
 # Project Outputs
  - Order Recommendation Report
    <br><br><img src="images/Report_Products_to_Order.png" width="60%"><br>
-   
- - ABC classification based on contribution to total sales
  - [Pareto visualization of sales distribution (Tableau Public)](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification)
-
+   <br><a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification" target="_blank">
+  <img src="images/Pareto_Dist.png" width="60%"></a>
+  
 # View the Project
  - 📄 Full Project Write-Up (recommended): [link to your PDF]
  - 📓 Jupyter Notebook: [Jupyter Notebook (GitHub)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
