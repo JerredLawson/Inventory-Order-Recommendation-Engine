@@ -1,12 +1,13 @@
 # Automated ABC Inventory Recommendation Engine <br>(Tableau + Python)
 # What does it do? 
-- Classifies products into an (ABC) Pareto distribution based on sales.
-- Produces inventory order recommendations based on ABC classification, sales velocity, and delivery window.
+- Classifies products into an ABC distribution based on sales.
+- Produces inventory order recommendations based on ABC classification, sales velocity, and next delivery date.
 
 # Why does it matter?
-- Transformed manual ordering into an automated process for a casino gift shop I managed.
-- Reduced ordering time from 2 hours to 15 minutes.
-- Lowered stockouts on top-selling items and reduced spoilage on slow-movers.
+When implemented at a casino gift shop, this system:
+ - Transformed manual ordering into an automated process.
+ - Reduced ordering time from 2 hours to 15 minutes.
+ - Lowered stockouts on top-selling items and reduced spoilage on slow-movers.
 
 # Project outputs:
 **Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))
