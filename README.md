@@ -1,15 +1,21 @@
-# Inventory Order Recommendation Engine
-Retail inventory ordering is often reactive—based on what is low rather than what is needed. This project transforms that process into a rule-based decision system using historical sales and current inventory data.
-
-Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classifies products and applies ordering policies to generate purchase recommendations aligned with demand and delivery schedules.
+# Automated ABC Inventory Recommendation Engine (Tableau + Python)
+- Transformed manual ordering into an automated process for a casino gift shop.
+- Reduced ordering time from 2 hours to 15 minutes.
+- Stockouts and spoilage virtually elimintated. 
 
 # Project Outputs
-- **Product Order Recommendations:** The system calculates order quantities by projecting inventory through the next delivery cycle and applying class-based stocking policies.<br><br>
-      <img src="images/Report_Products_to_Order.png" width="60%">
-- **Pareto Sales Distribution (Tableau Public):** Displays cumulative sales contribution to classify products into A, B, and C categories based on the 80/15/5 rule.<br><br>
+**Pareto Sales Distribution (Tableau Public):**
+- Products are classified into A, B, and C categories based on the 80/15/5 rule.
+- Class A items (Top 80% of sales) carry 2 weeks of buffer stock.
+- Class B items (Next 15% of sales) carry 1 week of buffer stock.
+- Class C items (Bottom 5% of sales) are automatically flagged for review.<br><br>
   <a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification" target="_blank">
     <img src="images/Pareto_Dist.png" width="60%">
-  </a>
+  </a><br><br>
+
+**Product Order Recommendations:**
+ - Order quantities and projections based on historical sales velocity.<br><br>
+   <img src="images/Report_Products_to_Order.png" width="60%"><br>
   
 # View the Project
  - 📄 Full Project Write-Up (recommended): [link to your PDF]
