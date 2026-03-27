@@ -1,4 +1,4 @@
-# Automated ABC Inventory Recommendation Engine <br>(Tableau + Python)
+# Inventory Order Recommendation Engine <br>(Tableau + Python)
 # What does it do? 
 - Classifies products into an ABC distribution based on sales.
 - Produces inventory order recommendations based on ABC classification, sales velocity, and next delivery date.
