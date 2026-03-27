@@ -8,7 +8,7 @@ Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classi
 
   <img src="images/Report_Products_to_Order.png" width="60%">
 
-- [Pareto visualization of sales distribution (Tableau Public)](https://...)
+- [Interactive Pareto visualization of sales distribution (Tableau Public)](https://...)
 
   <a href="https://..." target="_blank">
     <img src="images/Pareto_Dist.png" width="60%">
