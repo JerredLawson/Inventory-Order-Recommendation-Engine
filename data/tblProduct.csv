@@ -1,1 +1,31 @@
-
+product_id,category,product_name,purchase_unit,purchase_unit_size,avg_unit_cost,retail_price
+1088638,snack,Protein Bar,pack,24,1.5593,3.49
+1253167,snack,Lay's Classic Potato Chips,pack,24,1.1068,2.69
+1331817,snack,Planters Peanuts,pack,24,0.9556,2.29
+1711217,snack,Ruffles Cheddar & Sour Cream,pack,24,1.1553,2.69
+2012714,snack,Wheat Thins,pack,24,1.1063,2.49
+2310329,candy,M&M's,pack,28,0.9587,2.29
+2424707,candy,Jelly Belly Jelly Beans,pack,28,1.2078,2.79
+2732499,snack,Ritz Crackers Snack Pack,pack,24,1.0564,2.49
+2858379,candy,Kit Kat,pack,28,0.9263,2.19
+2982488,snack,Popcorn (Microwave Bag),pack,24,0.8554,1.99
+3894456,snack,Cheetos Crunchy,pack,24,1.1573,2.69
+4255235,snack,Cheez-It Crackers,pack,24,1.1076,2.49
+5619128,snack,Doritos Nacho Cheese,pack,24,1.2088,2.79
+5624747,candy,Starburst,pack,28,0.9058,2.19
+6230104,candy,Hershey's Milk Chocolate Bar,pack,28,0.9052,2.19
+6334728,candy,Skittles,pack,28,0.9554,2.19
+6341525,snack,Goldfish Crackers,pack,24,1.008,2.39
+6825224,snack,Pringles Original,pack,24,1.2597,2.99
+6828260,candy,Reese's Peanut Butter Cups,pack,28,0.9853,2.29
+7023463,snack,Trail Mix,pack,24,1.3567,2.99
+7165581,candy,Snickers,pack,28,0.9299,2.19
+7747619,candy,Twix,pack,28,0.9555,2.29
+7944400,candy,Tootsie Roll,pack,28,0.756,1.79
+8306905,candy,Haribo Goldbears,pack,28,0.9077,2.29
+8405468,candy,Nerds,pack,28,0.8592,1.99
+8551457,snack,Snyder's Pretzels,pack,24,1.0561,2.49
+8860153,candy,Mike and Ike,pack,28,0.8073,1.89
+9044404,snack,Granola Bar,pack,24,0.9054,2.19
+9115955,candy,Laffy Taffy,pack,28,0.6579,1.59
+9292315,candy,Sour Patch Kids,pack,28,0.9553,2.29
