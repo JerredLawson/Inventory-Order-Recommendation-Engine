@@ -4,8 +4,9 @@ Retail inventory ordering is often reactive—based on what is low rather than w
 Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classifies products and applies ordering policies to generate purchase recommendations aligned with demand and delivery schedules.
 
 # Project Outputs
- - Product-level order recommendations (units to order, projected inventory, depletion dates)
-   ![Pareto Chart](images/Report_Products_to_Order.png)
+ - Order Recommendation Report
+   <br><br><img src="images/Report_Products_to_Order.png" width="60%"><br>
+   
  - ABC classification based on contribution to total sales
  - [Pareto visualization of sales distribution (Tableau Public)](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification)
 
