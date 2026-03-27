@@ -1,4 +1,4 @@
-# Inventory-Order-Recommendation-Engine
+# Inventory Order Recommendation Engine
 Retail inventory ordering is often reactive—based on what is low rather than what is needed. This project transforms that process into a rule-based decision system using historical sales and current inventory data.
 
 Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classifies products and applies ordering policies to generate purchase recommendations aligned with demand and delivery schedules.
