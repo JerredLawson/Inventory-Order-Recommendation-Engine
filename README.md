@@ -1,7 +1,7 @@
 # Automated ABC Inventory Recommendation Engine (Tableau + Python)
 - Transformed manual ordering into an automated process for a casino gift shop.
 - Reduced ordering time from 2 hours to 15 minutes.
-- Stockouts and spoilage virtually elimintated. 
+- Stockouts and spoilage virtually eliminated. 
 
 # Project Outputs
 **Pareto Sales Distribution (Tableau Public):**
