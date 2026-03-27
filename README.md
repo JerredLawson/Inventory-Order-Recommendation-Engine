@@ -6,9 +6,9 @@ Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classi
 # Project Outputs
  - Product-level order recommendations (units to order, projected inventory, depletion dates)
  - ABC classification based on contribution to total sales
- - [Pareto visualization of sales distribution]([url](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))
+ - [Pareto visualization of sales distribution](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))
 
 The Order Reccomendation Engline can be viewed in the following formats:
- - [Jupyter Notebook]([url](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb))
+ - [Jupyter Notebook](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb))
  - Excel
  - SQL Script
