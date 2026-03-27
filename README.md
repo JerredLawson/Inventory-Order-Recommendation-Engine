@@ -5,7 +5,7 @@ Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classi
 
 # Project Outputs
  - Product-level order recommendations (units to order, projected inventory, depletion dates)
-   
+   ![Pareto Chart](images/Report_Products_to_Order.png)
  - ABC classification based on contribution to total sales
  - [Pareto visualization of sales distribution (Tableau Public)](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification)
 
