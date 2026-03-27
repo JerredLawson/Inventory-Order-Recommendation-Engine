@@ -6,7 +6,7 @@ Using sales velocity and an 80/15/5 Pareto (ABC) distribution, the system classi
 # Project Outputs
 - **Product Order Recommendations:** The system calculates order quantities by projecting inventory through the next delivery cycle and applying class-based stocking policies.<br><br>
       <img src="images/Report_Products_to_Order.png" width="60%">
-- **Pareto Sales Distribution (Tableau Public):** Visualizes cumulative sales contribution to classify products into A, B, and C categories based on the 80/15/5 rule.<br><br>
+- **Pareto Sales Distribution (Tableau Public):** Displays cumulative sales contribution to classify products into A, B, and C categories based on the 80/15/5 rule.<br><br>
   <a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification" target="_blank">
     <img src="images/Pareto_Dist.png" width="60%">
   </a>
