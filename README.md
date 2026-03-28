@@ -2,9 +2,9 @@
 ## What does it do? 
 - Converts manual ordering into a rule-based decision engine 
 - Determines what to order and how much for each product 
-- Uses Pareto (80/15/5) classification to drive inventory decisions 
+- Uses Pareto (80/15/5) classification to drive ordering decisions 
 - Projects how long inventory will last and when it will run out
-- Generates an HTML report for ordering decisions
+- Generates an HTML report
 
 ## Why does it matter?
 When implemented in a casino gift shop, the system:
