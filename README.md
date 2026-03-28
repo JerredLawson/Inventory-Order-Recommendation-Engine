@@ -4,6 +4,7 @@
 - Determines what to order and how much for each product 
 - Uses ABC (Pareto 80/15/5) classification to drive inventory decisions 
 - Projects how long inventory will last and when it will run out
+- Generates an HTML report for ordering decisions
 
 ## Why does it matter?
 When implemented in a casino gift shop, the system:
@@ -12,11 +13,8 @@ When implemented in a casino gift shop, the system:
 - Reduced overstock and spoilage on slow-moving products
 - Standardized ordering decisions across all products
 
-## How it works
-### Data Sources (CVS for this demo) → Python (ABC/Pareto Logic) → HTML Report
-
 ## Project outputs:
-### **Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
+### **Pareto Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
 Products are classified into A/B/C categories based on share of units sold.
 - **Class A (Top 80%):** carry 2 weeks of buffer stock.
 - **Class B (Next 15%):** carry 1 week of buffer stock.
