@@ -1,19 +1,22 @@
 # Inventory Order Recommendation Engine <br>(Tableau + Python)
-# What does it do? 
+## What does it do? 
 - Converts manual ordering into a rule-based decision engine 
 - Determines what to order and how much for each product 
 - Uses ABC (Pareto 80/15/5) classification to drive inventory decisions 
 - Projects how long inventory will last and when it will run out
 
-# Why does it matter?
+## Why does it matter?
 When implemented in a casino gift shop, the system:
 - Reduced ordering time from ~2 hours to ~15 minutes
 - Reduced stockouts on top-selling products
 - Reduced overstock and spoilage on slow-moving products
 - Standardized ordering decisions across all products
 
-# Project outputs:
-**Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
+## How it works
+### Data Sources (CVS for this demo) → Python (ABC/Pareto Logic) → PDF Report + Tableau Dashboard
+
+## Project outputs:
+### **Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
 Products are classified into A/B/C categories based on share of units sold.
 - **Class A (Top 80%):** carry 2 weeks of buffer stock.
 - **Class B (Next 15%):** carry 1 week of buffer stock.
@@ -22,16 +25,16 @@ Products are classified into A/B/C categories based on share of units sold.
     <img src="images/Pareto_Dist.png" width="60%">
   </a><br><br>
 
-**Product Order Recommendations:**
+### **Product Order Recommendations:**
  - Order quantities and projections based on historical sales velocity.<br><br>
    <img src="images/Report_Products_to_Order.png" width="60%"><br>
   
-# View the Project
+## View the Project
  - 📄 Full Project Write-Up: [link to your PDF]
  - 📓 Jupyter Notebook: [Jupyter Notebook (GitHub)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
  - 📊 Data Sources: /data
 
-# Tech Stack
+## Tech Stack
  - Python (pandas, numpy)
  - SQL (BigQuery)
  - Excel (data modeling, validation)
