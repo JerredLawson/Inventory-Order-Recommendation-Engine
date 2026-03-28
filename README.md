@@ -13,11 +13,11 @@ When implemented in a casino gift shop, the system:
 - Standardized ordering decisions across all products
 
 # Project outputs:
-**Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))
-- Products are classified into A, B, and C categories based on the 80/15/5 rule.
-- Class A items (Top 80% of sales) carry 2 weeks of buffer stock.
-- Class B items (Next 15% of sales) carry 1 week of buffer stock.
-- Class C items (Bottom 5% of sales) are flagged for review.<br><br>
+**Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
+Products are classified into A/B/C categories based on share of units sold.
+- **Class A (Top 80%):** carry 2 weeks of buffer stock.
+- **Class B (Next 15%):** carry 1 week of buffer stock.
+- **Class C (Remaining 5%):** no additional buffer; flagged for review<br><br>
   <a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification" target="_blank">
     <img src="images/Pareto_Dist.png" width="60%">
   </a><br><br>
@@ -27,7 +27,7 @@ When implemented in a casino gift shop, the system:
    <img src="images/Report_Products_to_Order.png" width="60%"><br>
   
 # View the Project
- - 📄 Full Project Write-Up (recommended): [link to your PDF]
+ - 📄 Full Project Write-Up: [link to your PDF]
  - 📓 Jupyter Notebook: [Jupyter Notebook (GitHub)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
  - 📊 Data Sources: /data
 
