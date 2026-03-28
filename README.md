@@ -13,7 +13,7 @@ When implemented in a casino gift shop, the system:
 - Standardized ordering decisions across all products
 
 ## How it works
-### Data Sources (CVS for this demo) → Python (ABC/Pareto Logic) → HTML Report + Tableau Dashboard
+### Data Sources (CVS for this demo) → Python (ABC/Pareto Logic) → HTML Report
 
 ## Project outputs:
 ### **Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))<p>
