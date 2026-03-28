@@ -1,8 +1,8 @@
 # Inventory Order Recommendation Engine <br>(Tableau + Python)
 ## What does it do? 
-- Converts manual ordering into a rule-based decision engine 
-- Determines what to order and how much for each product 
-- Uses Pareto (80/15/5) classification to drive ordering decisions 
+- Converts manual ordering into a rule-based decision engine
+- Uses Pareto (80/15/5) classification to segment products
+- Determines what to order and how much for each product
 - Projects how long inventory will last and when it will run out
 - Generates an HTML report
 
