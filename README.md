@@ -1,11 +1,12 @@
 # Inventory Order Recommendation Engine <br>(Tableau + Python)
 # What does it do? 
-- Classifies products into an ABC distribution based on sales.
-- Produces inventory order recommendations based on ABC classification, sales velocity, and next delivery date.
+- Converts manual ordering into a rule-based decision engine 
+- Determines what to order and how much for each product 
+- Uses ABC (Pareto 80/15/5) classification to drive inventory decisions 
+- Projects how long inventory will last and when it will run out
 
 # Why does it matter?
 When implemented at a casino gift shop, this system:
- - Transformed manual ordering into an automated process.
  - Reduced ordering time from 2 hours to 15 minutes.
  - Lowered stockouts on top-selling items and reduced spoilage on slow-movers.
 
