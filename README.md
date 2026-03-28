@@ -6,9 +6,11 @@
 - Projects how long inventory will last and when it will run out
 
 # Why does it matter?
-When implemented at a casino gift shop, this system:
- - Reduced ordering time from 2 hours to 15 minutes.
- - Lowered stockouts on top-selling items and reduced spoilage on slow-movers.
+When implemented in a casino gift shop, this system:
+- Reduced ordering time from ~2 hours to ~15 minutes
+- Reduced stockouts on top-selling products
+- Reduced overstock and spoilage on slow-moving products
+- Standardized ordering decisions across all products
 
 # Project outputs:
 **Pareto Sales Distribution** ([View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification))
