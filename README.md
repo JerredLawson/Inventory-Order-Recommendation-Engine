@@ -6,7 +6,7 @@
 - Projects how long inventory will last and when it will run out
 
 # Why does it matter?
-When implemented in a casino gift shop, this system:
+When implemented in a casino gift shop, the system:
 - Reduced ordering time from ~2 hours to ~15 minutes
 - Reduced stockouts on top-selling products
 - Reduced overstock and spoilage on slow-moving products
