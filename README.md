@@ -19,11 +19,15 @@ Products are classified into A/B/C categories based on share of units sold.
 - **Class A (Top 80%):** carry 2 weeks of buffer stock.
 - **Class B (Next 15%):** carry 1 week of buffer stock.
 - **Class C (Remaining 5%):** no additional buffer; flagged for review<br><br>
-  <img src="images/Pareto_Dist.png" width="60%"><br>
+  <img src="images/Pareto_Dist.png" width="75%"><br>
 
 ### **Inventory Order Recommendation Report:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
- - Order quantities and projections based on historical sales velocity.<br><br>
-   <img src="images/Report_Products_to_Order.png" width="60%"><br>
+ - Order quantities and projections based on historical sales velocity.<p>
+   <a href="https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/inventory_order_recommendation_report.pdf">
+    <img src="images/Inventory_Order_Recommendation_Report.png" alt="Inventory Order Recommendation Report" width="75%"></a>
+ - 
+ 
+   <img src="images/Inventory_Order_Recommendation_Report.png" width="75%"><br>
   
 ## View the Project
  - 📄 Full Project Write-Up: [link to your PDF]
