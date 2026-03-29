@@ -11,7 +11,7 @@ When implemented in a casino gift shop, the system:
 - Reduced ordering time from ~2 hours to ~15 minutes
 - Reduced stockouts on top-selling products
 - Reduced overstock and spoilage on slow-moving products
-- Produced consistent ordering recommendations across products
+- Standardized ordering recommendations across products
 
 ## Project outputs:
 ### **Inventory Order Recommendation Report** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
