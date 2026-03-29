@@ -2,7 +2,7 @@
 ## What does it do? 
 - Replaces manual, subjective ordering decisions with a rule-based engine
 - Uses Pareto (80/15/5) classification to segment products
-- Reccomend swhat to order and how much for each product
+- Reccomends what to order and how much for each product
   - Determines what to order and how much for each product
 - Projects how long inventory will last and when it will run out
 - Generates an HTML report
