@@ -19,11 +19,9 @@ Products are classified into A/B/C categories based on share of units sold.
 - **Class A (Top 80%):** carry 2 weeks of buffer stock.
 - **Class B (Next 15%):** carry 1 week of buffer stock.
 - **Class C (Remaining 5%):** no additional buffer; flagged for review<br><br>
-  <a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification" target="_blank">
-    <img src="images/Pareto_Dist.png" width="60%">
-  </a><br><br>
+  <img src="images/Pareto_Dist.png" width="60%"><br>
 
-### **Product Order Recommendations:**
+### **Product Order Recommendations:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory_Order_Recommendation_Report.html))
  - Order quantities and projections based on historical sales velocity.<br><br>
    <img src="images/Report_Products_to_Order.png" width="60%"><br>
   
