@@ -21,7 +21,7 @@ Products are classified into A/B/C categories based on share of units sold.
 - **Class C (Remaining 5%):** no additional buffer; flagged for review<br><br>
   <img src="images/Pareto_Dist.png" width="60%"><br>
 
-### **Product Order Recommendations:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
+### **Inventory Order Recommendation Report:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
  - Order quantities and projections based on historical sales velocity.<br><br>
    <img src="images/Report_Products_to_Order.png" width="60%"><br>
   
