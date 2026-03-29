@@ -23,7 +23,7 @@ Products are classified into A/B/C categories based on share of units sold.
 
 ### **Inventory Order Recommendation Report:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
  - Order quantities and projections based on historical sales velocity.<p>
-   <a href="https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory_Order_Recommendation_Report.pdf">
+   <a href="https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory Order Recommendation Report.pdf">
     <img src="images/Inventory_Order_Recommendation_Report.png" alt="Inventory Order Recommendation Report" width="75%"></a>
  - 
  
