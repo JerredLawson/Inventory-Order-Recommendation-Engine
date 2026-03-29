@@ -29,7 +29,7 @@ Products are classified into A/B/C categories based on share of units sold.
 
 ## View the Project
  - 📄 Full Project Write-Up: [link to your PDF]
- - 📓 Jupyter Notebook: [Jupyter Notebook (GitHub)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
+ - 📓 [Jupyter Notebook (Python Code Documentation)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
  - 📊 [Data Sources](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/tree/main/data)
 
 ## Tech Stack
