@@ -18,16 +18,16 @@ When implemented in a casino gift shop, the system:
 Products are classified into A/B/C categories based on share of units sold.
 - **Class A (Top 80%):** carry 2 weeks of buffer stock.
 - **Class B (Next 15%):** carry 1 week of buffer stock.
-- **Class C (Remaining 5%):** no additional buffer; flagged for review<br><br>
+- **Class C (Remaining 5%):** no additional buffer; flagged for review.
+  <a href="https://public.tableau.com/app/profile/jerred.lawson/viz/RetailStoreViz/DASHABCInventoryClassification">
+    <img src="images/Pareto_Dist.png" alt="Tableau Pareto Distribution" width="75%"></a>
+    
   <img src="images/Pareto_Dist.png" width="75%"><br>
 
 ### **Inventory Order Recommendation Report:** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
  - Order quantities and projections based on historical sales velocity.<p>
    <a href="https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory Order Recommendation Report.pdf">
     <img src="images/Inventory_Order_Recommendation_Report.png" alt="Inventory Order Recommendation Report" width="75%"></a>
- - 
- 
-   <img src="images/Inventory_Order_Recommendation_Report.png" width="75%"><br>
   
 ## View the Project
  - 📄 Full Project Write-Up: [link to your PDF]
