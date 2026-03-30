@@ -3,8 +3,8 @@
 - Replaces manual, subjective ordering decisions with a rule-based engine
 - Uses Pareto (80/15/5) classification to segment products
 - Recommends what to order and how much for each product
-- Projects how long inventory will last and when it will run out
-- Generates an HTML report
+- Projects inventory levels over time to support ordering recommendations
+- Generates a [report](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf)
 
 ## Why does it matter?
 When implemented in a casino gift shop, the system:
@@ -28,7 +28,6 @@ Products are classified into A/B/C categories based on share of units sold.
     <img src="images/Pareto_Dist.png" alt="Tableau Pareto Distribution" width="70%"></a>
 
 ## View the Project
- - 📄 Full Project Write-Up: [link to your PDF]
  - 📓 [Jupyter Notebook (Python Code Documentation)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
  - 📊 [Data Sources](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/tree/main/data)
 
