@@ -4,7 +4,7 @@
 - Uses Pareto (80/15/5) classification to segment products
 - Recommends what to order and how much for each product
 - Projects inventory levels over time to support ordering recommendations
-- Generates [inventory reports](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf) with order quantities and depletion projections
+- Generates inventory reports with order quantities and depletion projections
 
 ## Why does it matter?
 When implemented in a casino gift shop, the system:
