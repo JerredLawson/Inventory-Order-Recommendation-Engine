@@ -1,17 +1,16 @@
 # Inventory Order Recommendation Engine
 ## What does it do? 
-- Replaces manual, subjective ordering decisions with a rule-based engine
+- Replaces manual, reactive ordering decisions with a rule-based engine
 - Uses Pareto (80/15/5) classification to segment products
 - Recommends what to order and how much for each product
 - Projects inventory levels over time to support ordering recommendations
-- Generates a [report](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf)
+- Generates [inventory reports](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf) with order quantities and depletion projections
 
 ## Why does it matter?
 When implemented in a casino gift shop, the system:
 - Reduced ordering time from ~2 hours to ~15 minutes
-- Reduced stockouts on top-selling products
-- Reduced overstock and spoilage on slow-moving products
-- Standardized ordering recommendations across products
+- Reduced stockouts of top-sellers
+- Reduced overstock and spoilage of slow-moving products
 
 ## Project outputs:
 ### **Inventory Order Recommendation Report** ([View PDF](https://jerredlawson.github.io/Inventory-Order-Recommendation-Engine/Inventory%20Order%20Recommendation%20Report.pdf))
