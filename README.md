@@ -1,4 +1,4 @@
-# Inventory Order Recommendation Engine <br>(Tableau + Python)
+# Inventory Order Recommendation Engine
 ## What does it do? 
 - Replaces manual, subjective ordering decisions with a rule-based engine
 - Uses Pareto (80/15/5) classification to segment products
