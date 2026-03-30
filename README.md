@@ -28,11 +28,6 @@ Products are classified into A/B/C categories based on share of units sold.
     <img src="images/Pareto_Dist.png" alt="Tableau Pareto Distribution" width="70%"></a>
 
 ## View the Project
- - 📓 [Jupyter Notebook (Python Code Documentation)](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/notebooks/inventory_order_engine.ipynb)
- - 📊 [Data Sources](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/tree/main/data)
-
-## Tech Stack
- - Python (pandas, numpy)
- - SQL (BigQuery)
- - Excel (data modeling, validation)
- - Tableau (visualization)
+ - [Python Engine]([url](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/python/inventory_order_engine.ipynb)) (Jupyter Notebook)
+ - [Relational Data Model]([url](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/sql/Inventory_Order_Recommendation_Engine.sql)) (SQL / BigQuery)
+ - [Excel Prototype]([url](https://github.com/JerredLawson/Inventory-Order-Recommendation-Engine/blob/main/excel/Inventory_Order_Recommendation_Engine.xlsx)) (Initial Model)
